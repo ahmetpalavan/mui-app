@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "One Piece Hakkında Herşey",
+      "details": "lorem",
+      "category": "one piece",
+      "id": 1
+    },
+    {
+      "title": "Monkey D Luffy Güçleri",
+      "details": "lorem",
+      "category": "one piece",
+      "id": 2
+    },
+    {
+      "title": "Son Goku Hakkında Bilgiler",
+      "details": "lorem",
+      "category": "one piece",
+      "id": 3
+    },
+    {
+      "title": "Naruto",
+      "details": "Naruto 1",
+      "category": "naruto",
+      "id": 4
+    }
+  ]
+}
